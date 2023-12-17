@@ -23,9 +23,11 @@ Create a program that takes a person's basic salary and benefits as input. Use t
 clone this repo on git@github.com:Lukimann/week1toyproblem.git
 
 ## Technologies
-Vscode, 
-Javascript, 
-Logical thinking
+<ol>
+<li>Vscode</li>
+<li>Javascript</li>
+<li>Logical thinking</li>
+ </ol>
 
 ## Contacts
 <ul>
