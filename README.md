@@ -31,6 +31,7 @@ Logical thinking
 <ul>
 <li>twitter: (@l_wanyama)</li>
 <li>email: (lukewanyama5@gmail.com)</li>
+</ul>
 
 
 
