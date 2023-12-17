@@ -38,6 +38,7 @@ clone this repo on git@github.com:Lukimann/week1toyproblem.git
 
 
 
-License 
-@2023 Lukimann
-copyright (c) 2023
+## License
+
+#### @2023 Lukimann
+#### copyright (c) 2023
