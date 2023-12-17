@@ -28,8 +28,11 @@ Javascript,
 Logical thinking
 
 ## Contacts
-twitter: (@l_wanyama)
-email: (lukewanyama5@gmail.com)
+<ul>
+<li>twitter: (@l_wanyama)</li>
+<li>email: (lukewanyama5@gmail.com)</li>
+
+
 
 
 License 
