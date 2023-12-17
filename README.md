@@ -15,9 +15,9 @@ This program takes the speed of a car as input, compares it with the speed limit
 
 Create a program that takes a person's basic salary and benefits as input. Use tax rates and deductions from the given links to calculate the gross salary, income tax (PAYE), NHIF deductions, NSSF deductions, and net salary.
 
-(https://www.aren.co.ke/payroll/taxrates.htm)
+https://www.aren.co.ke/payroll/taxrates.htm
 
-(www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye)
+www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 
 ## Setup instructions
 clone this repo on git@github.com:Lukimann/week1toyproblem.git
@@ -31,8 +31,8 @@ clone this repo on git@github.com:Lukimann/week1toyproblem.git
 
 ## Contacts
 <ul>
-<li>twitter: (@l_wanyama)</li>
-<li>email: (lukewanyama5@gmail.com)</li>
+<li>twitter: @l_wanyama</li>
+<li>email: lukewanyama5@gmail.com</li>
 </ul>
 
 
