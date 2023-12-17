@@ -1,6 +1,6 @@
 # Toy Problem
 
-## Author Luka Wanyama
+## Author: Luka Wanyama
 
 
 # Student grade
