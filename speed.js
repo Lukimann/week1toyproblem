@@ -20,7 +20,7 @@ let maxPoints = 12;
 function speedChecker() {
   if (speed <= allowedSpeed) {
     return "Ok";
-    //i created a function speedChecker that will house my code. If recorded speed is below the allowed speed, a return of "Ok" was expected
+    //i created a function speedChecker that will house my code. If recorded speed is below the allowed speed, a return of "Ok" was expected.
 
   } else if (speed > allowedSpeed) {
     return demeritPoints;
